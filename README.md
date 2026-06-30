@@ -6,10 +6,6 @@ I'm **Marlon Wisskirchen**, a **frontend-focused full-stack developer** at [denk
 ![GitHub followers](https://img.shields.io/github/followers/MarlonWiss2212?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/MarlonWiss2212?style=social)
 
-## 📊 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonWiss2212&layout=donut&hide_border=true&bg_color=00000000&theme=tokyonight&langs_count=8&custom_title=Most%20Used%20Languages)
-
 ## 🛠 Tech Stack
 
 **Languages**
@@ -78,7 +74,5 @@ I'm **Marlon Wisskirchen**, a **frontend-focused full-stack developer** at [denk
 </div>
 
 ## 📈 Contribution Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarlonWiss2212&show_icons=true&hide_border=true&bg_color=00000000&theme=tokyonight&count_private=true)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarlonWiss2212&bg_color=00000000&color=41B883&line=00DC82&point=ffffff&area=true&hide_border=true)](https://github.com/MarlonWiss2212)
