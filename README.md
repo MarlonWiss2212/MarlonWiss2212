@@ -8,7 +8,7 @@ I'm **Marlon Wisskirchen**, a **frontend-focused full-stack developer** at [denk
 
 ## 🛠 Tech Stack
 
-**Languages**
+**Coding Languages**
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px;">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
@@ -19,7 +19,7 @@ I'm **Marlon Wisskirchen**, a **frontend-focused full-stack developer** at [denk
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
 </div>
 
-**Frameworks & Libraries**
+**Frameworks**
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px;">
   <img src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat&logo=nuxt.js&logoColor=white" alt="Nuxt.js">
@@ -32,7 +32,7 @@ I'm **Marlon Wisskirchen**, a **frontend-focused full-stack developer** at [denk
   <img src="https://img.shields.io/badge/-Ionic-3880FF?style=flat&logo=ionic&logoColor=white" alt="Ionic">
 </div>
 
-**Styling & CSS Tools**
+**Styling**
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px;">
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
